@@ -15,7 +15,6 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - [Model Summary](#model-summary)
 - [Model Evaluation](#model-evaluation)
 - [Technologies Used](#technologies-used)
-- [Acknowledgements](#acknowledgements)
 - [Collaborators](#collaborators)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -73,7 +72,7 @@ The break down of the final provided CNN architecture step by step:
 - [Numpy](https://numpy.org/) - version 1.24.3
 - [Pandas](https://pandas.pydata.org/) - version 1.5.3
 - [Seaborn](https://seaborn.pydata.org/) - version 0.12.2
-- [Tensorflow](https://www.tensorflow.org/) - version 2.15.0
+- [Tensorflow](https://www.tensorflow.org/) - version 2.16.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
